@@ -1,6 +1,4 @@
 # To Run this Playbook Issue the command
-#Author Anish Nath
-#https://youtu.be/aul2IpBkQYw
 # ansible-playbook ssh.yml 
 ---
 - hosts: all
