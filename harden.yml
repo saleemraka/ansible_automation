@@ -1,6 +1,6 @@
 # To Run this Playbook Issue the command
 # ansible-playbook harden.yml
-
+#goo.gl/KjzHSK
 
 ---
 - hosts: all
