@@ -1,7 +1,5 @@
 # To Run this Playbook Issue the command
-#Author Anish Nath
 # ansible-playbook apache2.yml 
-#goo.gl/A7kfnU
 
 ---
 - hosts: all
