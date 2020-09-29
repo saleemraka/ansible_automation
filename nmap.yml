@@ -1,7 +1,6 @@
 # To Run this Playbook Issue the command
 # ansible-playbook nmap.yml
-# Author Anish Nath
-#https://goo.gl/W4rtXg
+
 
 ---
 - hosts: localhost
